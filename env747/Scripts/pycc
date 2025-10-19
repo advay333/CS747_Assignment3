@@ -1,0 +1,3 @@
+#!C:\Users\advay\Desktop\CS747\ASSIGN_3\PA3_code_windows\PA3_code_windows\env747\Scripts\python.exe
+from numba.pycc import main
+main()
