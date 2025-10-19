@@ -1,8 +1,0 @@
-#!C:\Users\advay\Desktop\CS747\ASSIGN_3\PA3_code_windows\PA3_code_windows\env747\Scripts\python.exe
-# -*- coding: UTF-8 -*-
-from __future__ import print_function, division, absolute_import
-
-from numba.misc.numba_entry import main
-
-if __name__ == "__main__":
-    main()
